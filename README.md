@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 5. React-nuance [for state management]
 
-#Screenshots
+# Screenshots
 
 ![home](https://github.com/Ash-ketchem/Social-media/assets/85503330/e664a599-db5f-4337-a3a9-a4c2b17dc981)
 
@@ -22,6 +22,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![comment](https://github.com/Ash-ketchem/Social-media/assets/85503330/bb675796-f93f-4756-b944-d5d7876858db)
 
+![responsive](https://github.com/Ash-ketchem/Social-media/assets/85503330/f15638e9-fbd9-4f69-9599-52803a33c0e4)
 
 
 ## Getting Started
@@ -29,11 +30,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+npm i
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
