@@ -27,7 +27,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-change the Database url to yout url in the .env file
+change the Database url to your db url in the .env file
+
+cd to the folder
 
 Then run the development server:
 
