@@ -14,6 +14,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 #Screenshots
 
+![home](https://github.com/Ash-ketchem/Social-media/assets/85503330/e664a599-db5f-4337-a3a9-a4c2b17dc981)
+
+![profile](https://github.com/Ash-ketchem/Social-media/assets/85503330/1ec258e2-45e4-4d71-beef-953f0ee99244)
+
+![user](https://github.com/Ash-ketchem/Social-media/assets/85503330/2d6b0047-ff6e-4b0f-a789-9f1e9dae795a)
+
+![comment](https://github.com/Ash-ketchem/Social-media/assets/85503330/bb675796-f93f-4756-b944-d5d7876858db)
+
+
+
 ## Getting Started
 
 First, run the development server:
