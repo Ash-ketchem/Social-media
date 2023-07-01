@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # TECH STACK
 
-1. next js
+1. Next.js 13
 
 2. tailwindcss
 
