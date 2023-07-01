@@ -2,11 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # TECH STACK
 
-1.next js
-2.tailwindcss
-3.Daisy ui
-4.Prisma
-5.React-nuance [for state management]
+1. next js
+
+2. tailwindcss
+
+3. Daisy ui
+
+4. Prisma
+
+5. React-nuance [for state management]
 
 #Screenshots
 
