@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
+
+# TECH STACK
+
+1.next js
+2.tailwindcss
+3.Daisy ui
+4.Prisma
+5.React-nuance [for state management]
+
+#Screenshots
 
 ## Getting Started
 
